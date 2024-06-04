@@ -20,6 +20,7 @@ A website for boardgame design resources in and around the Twin Cities, Minnesot
 
 ### August 2024
 
+- Thu - Sun, Aug 1-4 - [GenCon](https://www.gencon.com)
 - Fri, Aug 2nd - Game Day!! (Gamezenter)
 - Sat, Aug 17th - Design Day
 - Fri - Sun, Aug 23-25 - [2D CON!](https://www.2dcon.net/)
