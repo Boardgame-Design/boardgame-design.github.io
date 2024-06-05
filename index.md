@@ -9,8 +9,10 @@ The twin cities area is home to a large number of board game designers and publi
 
 ### June 2024
 
+- Wed, June 5th - [Devs Play Games!](https://igdatc.org) (6:30pm, [Nerdery](https://www.nerdery.com/) - We're playing Blood on the Clocktower and other games!)
 - Fri, June 7th - Game Day!! (3pm-7pm or later, [Gamezenter](https://gamezenter.com/))
 - Sat, June 15th - [Design Day](design_day) (2pm-6pm, [The Source](https://sourcecomicsandgames.com/))
+- Wed, June 19th - [Twin Cities Playtest](https://igdatc.org/) at [Noble Robot](https://noblerobot.com/), 6:30pm
 - Wed, June 19th - Sun, June 23rd - [ORIGINS](https://www.originsgamefair.com/)
 - Sun, June 23rd - Design Day
 
