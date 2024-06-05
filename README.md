@@ -1,39 +1,19 @@
 # Twin Cities Boardgame Design
 
-A website for boardgame design resources in and around the Twin Cities, Minnesota.
+This repository hosts a website (built with Jekyll and GitHub pages) for boardgame design resources in and around the Twin Cities, Minnesota.
 
 
-## Calendar
+## Helpful Links
 
-### June 2024
+* [Github Pages](https://pages.github.com/)
+* [About Github Pages and Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
+* [Jekyll](https://jekyllrb.com/docs/)
+* [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-- Fri, June 7th - Game Day!! (3pm-7pm or later, [Gamezenter](https://gamezenter.com/))
-- Sat, June 15th - Design Day (2pm-6pm, [The Source](https://sourcecomicsandgames.com/))
-- Wed, June 19th - Sun, June 23rd - [ORIGINS](https://www.originsgamefair.com/)
-- Sun, June 23rd - Design Day
 
-### July 2024
+## Getting started
 
-- Fri, July 12th - Game Day!! (Gamezenter)
-- Sat, July 20th - Design Day
-- Sun, July 28th - Design Day
+    There are detailed instructions at the Jekyll link above, but if you are on a mac and already familiar with .git, you may be able to just check out this repo, and run `bundle exec jekyll serve` from the Terminal inside the resulting directory.
 
-### August 2024
+    See the github "Issues" for a list of things to work on, or create a new issue!
 
-- Thu - Sun, Aug 1-4 - [GenCon](https://www.gencon.com)
-- Fri, Aug 2nd - Game Day!! (Gamezenter)
-- Sat, Aug 17th - Design Day
-- Fri - Sun, Aug 23-25 - [2D CON!](https://www.2dcon.net/)
-- Sun, Aug 25th - GAME JAME at 2D Con!!
-
-### September 2024
-
-- Fri, Sep 6th - GAME DAY (and Trevor's birthday!) (Gamezenter)
-- Sat, Sep 21st - IRON DESIGNER CHALLENGE (2p-6p) 
-- Sun, Sep 22nd - IRON DESIGNER CHALLENGE (2p-6p)
-
-### October 2024
-
-- Fri, Oct 11th - Game Day!! (Gamezenter)
-- Sat, Oct 19th- Design Day
-- Sun, Oct 27th - Design Day
