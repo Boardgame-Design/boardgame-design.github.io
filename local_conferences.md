@@ -5,14 +5,13 @@
 
 ### Upcoming
 
-- [2D CON!](https://www.2dcon.net/) - Will have vendor space, and playtesting all weekend.
+- [2D CON!](https://www.2dcon.net/) - Will have vendor space, a game jam, and playtesting all weekend.
 
 
 ### Previous
 
 - [Protospiel Twin Cities](https://tabletop.events/conventions/protospiel-twin-cities-2024/) was held May 31 - June 2nd, 2024
-- [Protospiel MN](https://tabletop.events/conventions/protospiel-mn-2024) was held Feb 2-4, 2024
-    Also held in [2023](https://tabletop.events/conventions/protospiel-mn-2023), [2022](https://tabletop.events/conventions/protospiel-mn-2022), [2020](https://tabletop.events/conventions/protospiel-mn-2020), [2019](https://tabletop.events/conventions/protospiel-mn-2019), [2018](https://tabletop.events/conventions/protospiel-mn-2018), [2017](https://tabletop.events/conventions/protospiel-mn-2017), and [2016](https://tabletop.events/conventions/protospiel-mn-2016).
+- [Protospiel MN](https://tabletop.events/conventions/protospiel-mn-2024) was held Feb 2-4, 2024<br />Also held in [2023](https://tabletop.events/conventions/protospiel-mn-2023), [2022](https://tabletop.events/conventions/protospiel-mn-2022), [2020](https://tabletop.events/conventions/protospiel-mn-2020), [2019](https://tabletop.events/conventions/protospiel-mn-2019), [2018](https://tabletop.events/conventions/protospiel-mn-2018), [2017](https://tabletop.events/conventions/protospiel-mn-2017), and [2016](https://tabletop.events/conventions/protospiel-mn-2016).
 
 
 ## Other local industry conferences

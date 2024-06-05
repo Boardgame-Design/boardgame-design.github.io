@@ -1,6 +1,6 @@
 # Community
 
-When not meeting in person at a [local conference](local_conferences) or [design day](design_day), you can find local board game designers hanging out in several online venues.
+When not meeting in person at a [local conference](local_conferences) or [design day](days), you can find local board game designers hanging out in several online venues.
 
 
 ## Split Perspective Studios Discord
