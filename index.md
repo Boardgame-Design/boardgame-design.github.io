@@ -38,7 +38,7 @@ The twin cities area is home to a large number of board game designers and publi
 ### September 2024
 
 - Fri, Sep 6th - GAME DAY (and Trevor's birthday!) (Gamezenter)
-- Sat, Sep 21st - [IRON DESIGNER CHALLENGE](days/#iron-designer-challenge) (2p-6p)
+- Sat, Sep 21st - [IRON DESIGNER CHALLENGE](days#iron-designer-challenge) (2p-6p)
 - Sun, Sep 22nd - IRON DESIGNER CHALLENGE (2p-6p)
 
 ### October 2024

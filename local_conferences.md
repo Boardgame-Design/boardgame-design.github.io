@@ -16,18 +16,23 @@
 
 ## Other local industry conferences
 
+These conferences don't necessarily have game-design specific events, but are focused on gaming.
+
 - [Con of the North](https://www.conofthenorth.org/) - Feb. 14-16 2025
 - [DaveCON](https://www.davecon.net/) - April 25-27, 2025
 
 Many other local conferences featuring board gaming are listed on the [twincitiesgeek.com convention guide](https://twincitiesgeek.com/2024/01/the-twin-cities-geek-2024-minnesota-convention-guide/).
 
+
 ## Other Industry Conferences
 
 You can find Minnesotans at all of these conferences!
 
+- [BGG.con](https://boardgamegeek.com/forum/52/bgg/bggcon) - Nov 13-17, 2024
 - [GAMA Expo](https://www.gama.org/page/gama-expo) - Feb 23-27, 2025
 - [GenCon](https://www.gencon.com/) - Aug 1-4, 2024
 - [Origins](https://www.originsgamefair.com/) - June 19th-23rd, 2024
+- [PAX Unplugged](https://unplugged.paxsite.com/) - December 6-8, 2024
 - [Essen Spiel](https://www.spiel-essen.de/en/) - Oct 3-6, 2024
 
 
