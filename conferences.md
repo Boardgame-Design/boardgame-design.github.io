@@ -5,7 +5,7 @@
 
 ### Upcoming
 
-- [2D CON!](https://www.2dcon.net/) - Will have vendor space, a game jam, and playtesting all weekend.
+- [2D CON!](https://www.2dcon.net/) - Will have vendor space, a game jam, and playtesting all weekend.<br/>Friday-Sunday, Aug 23-25, 2024
 
 
 ### Previous
@@ -21,7 +21,7 @@ These conferences don't necessarily have game-design specific events, but are fo
 - [Con of the North](https://www.conofthenorth.org/) - Feb. 14-16 2025
 - [DaveCON](https://www.davecon.net/) - April 25-27, 2025
 
-Many other local conferences featuring board gaming are listed on the [twincitiesgeek.com convention guide](https://twincitiesgeek.com/2024/01/the-twin-cities-geek-2024-minnesota-convention-guide/).
+Many other twin cities conferences featuring board gaming are listed on the [twincitiesgeek.com convention guide](https://twincitiesgeek.com/2024/01/the-twin-cities-geek-2024-minnesota-convention-guide/).
 
 
 ## Other Industry Conferences

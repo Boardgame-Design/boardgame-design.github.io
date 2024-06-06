@@ -1,11 +1,14 @@
-The twin cities area is home to a large number of board game designers and publishers. As a result, there are an increasing number of design-related events. This site is just an attempt to consolidate information about these events and the community.
+The twin cities area is home to many board game designers and publishers. This site's purpose is to be a resource for them, but if you are not based here, we hope you find it useful anyway!
 
-- [Design Day](days)
-- [Local Conferences](local_conferences)
-- [the Community](community)
-- [Local Podcasts](local_content)
+- [Conferences](conferences)
+- [Community](community)
+- [Podcasts](podcasts)
+
 
 ## Calendar
+
+This calendar is an exhaustive list of events of interest to MN game designers. You can also see a separate list of just the [events hosted by Split Perspective Studios](split_perspective_studios).
+
 
 ### June 2024
 
@@ -17,7 +20,7 @@ The twin cities area is home to a large number of board game designers and publi
 
 - Wed, June 19th - [IGDATC](https://igdatc.org/) - Twin Cities Playtest<br />6:30pm, [Noble Robot](https://noblerobot.com/) - Video games and board games
 
-- Wed, June 19th - Sun, June 23rd - [Origins Game Fair](https://www.originsgamefair.com/)
+- Wed, June 19th - Sun, June 23rd - [Origins Game Fair](https://www.originsgamefair.com/)<br />Columbus, Ohio
 
 - Sun, June 23rd - [Design Day](days) - Playtesting<br />2pm-6pm, [The Source](https://sourcecomicsandgames.com/)
 
@@ -29,7 +32,7 @@ The twin cities area is home to a large number of board game designers and publi
 
 ### August 2024
 
-- Thu - Sun, Aug 1-4 - [GenCon](https://www.gencon.com)
+- Thu - Sun, Aug 1-4 - [GenCon](https://www.gencon.com), in Indianapolis, Indiana
 - Fri, Aug 2nd - Game Day!! (Gamezenter)
 - Sat, Aug 17th - Design Day
 - Fri - Sun, Aug 23-25 - [2D CON!](https://www.2dcon.net/)
@@ -38,11 +41,15 @@ The twin cities area is home to a large number of board game designers and publi
 ### September 2024
 
 - Fri, Sep 6th - GAME DAY (and Trevor's birthday!) (Gamezenter)
-- Sat, Sep 21st - [IRON DESIGNER CHALLENGE](days#iron-designer-challenge) (2p-6p)
+- Sat, Sep 21st - [IRON DESIGNER CHALLENGE](split_perspective_studios#iron-designer-challenge) (2p-6p)
 - Sun, Sep 22nd - IRON DESIGNER CHALLENGE (2p-6p)
 
 ### October 2024
 
+- Thu-Sun, Oct 3-6 - [Essen Spiel](https://www.spiel-essen.de/en/), in Essen, Germany
 - Fri, Oct 11th - Game Day!! (Gamezenter)
 - Sat, Oct 19th- Design Day
 - Sun, Oct 27th - Design Day
+
+
+<br /><br /><small>Last updated 2024-06-06. If you'd like your events included here, please [get in touch](about).</small>

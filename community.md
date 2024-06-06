@@ -1,6 +1,6 @@
 # Community
 
-When not meeting in person at a [local conference](local_conferences) or [design day](days), you can find local board game designers hanging out in several online venues.
+When not meeting in person at a [local conference](conferences) or [design day](days), you can find local board game designers hanging out in several online venues.
 
 
 ## Split Perspective Studios Discord
@@ -20,6 +20,11 @@ They have a general `#tabletop` channel as well.
 ## MSP GameDev Slack
 
 If you prefer Slack to Discord, the [MSPGameDev Slack](https://mspgamedev.slack.com/join/shared_invite/zt-4eeoc3mf-ygvIV_Rk~WxNtO6JquVVPw#/shared-invite/email) instance also has a `#board-games` channel.
+
+
+## Gray Duck Lodge
+
+A facebook group called [Gray Duck Lodge](https://www.facebook.com/groups/GreyDuckLodge/) exists for discussion on that platform. They do occasionally coordinate events. You must apply for membership there.
 
 
 ## Any we missed?
