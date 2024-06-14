@@ -12,10 +12,6 @@ This calendar is an exhaustive list of events of interest to MN game designers. 
 
 ### June 2024
 
-- Wed, June 5th - [IGDATC](https://igdatc.org) - Devs Play Games!<br />6:30pm, [Nerdery](https://www.nerdery.com/) - Playing Blood on the Clocktower and other games!
-
-- Fri, June 7th - [Design Day](days) - Game Day!<br />3pm-7pm or later, [Gamezenter](https://gamezenter.com/)
-
 - Sat, June 15th - [Design Day](days) - Playtesting<br />2pm-6pm, [The Source](https://sourcecomicsandgames.com/)
 
 - Wed, June 19th - [IGDATC](https://igdatc.org/) - Twin Cities Playtest<br />6:30pm, [Noble Robot](https://noblerobot.com/) - Video games and board games
@@ -51,5 +47,6 @@ This calendar is an exhaustive list of events of interest to MN game designers. 
 - Sat, Oct 19th- Design Day
 - Sun, Oct 27th - Design Day
 
+    [Events that previously appeared on this calendar](events).
 
 <br /><br /><small>Last updated 2024-06-06. If you'd like your events included here, please [get in touch](about).</small>
