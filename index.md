@@ -12,8 +12,6 @@ This calendar is an exhaustive list of events of interest to MN game designers. 
 
 ### June 2024
 
-- Sat, June 15th - [Design Day](days) - Playtesting<br />2pm-6pm, [The Source](https://sourcecomicsandgames.com/)
-
 - Wed, June 19th - [IGDATC](https://igdatc.org/) - Twin Cities Playtest<br />6:30pm, [Noble Robot](https://noblerobot.com/) - Video games and board games
 
 - Wed, June 19th - Sun, June 23rd - [Origins Game Fair](https://www.originsgamefair.com/)<br />Columbus, Ohio
@@ -22,9 +20,11 @@ This calendar is an exhaustive list of events of interest to MN game designers. 
 
 ### July 2024
 
-- Fri, July 12th - Game Day!! (Gamezenter)
-- Sat, July 20th - Design Day
-- Sun, July 28th - Design Day
+- Fri, July 12th - [Design Day](days) - Game Day!<br />3pm-7pm or later, [Gamezenter](https://gamezenter.com/)
+
+- Sat, July 20th - [Design Day](days) - Playtesting<br />2pm-6pm, [The Source](https://sourcecomicsandgames.com/)
+
+- Sat, July 28th - [Design Day](days) - Playtesting<br />2pm-6pm, [The Source](https://sourcecomicsandgames.com/)
 
 ### August 2024
 
