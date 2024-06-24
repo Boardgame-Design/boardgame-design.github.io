@@ -10,17 +10,13 @@ The twin cities area is home to many board game designers and publishers. This s
 This calendar is an exhaustive list of events of interest to MN game designers. You can also see a separate list of just the [events hosted by Split Perspective Studios](split_perspective_studios).
 
 
-### June 2024
-
-- Wed, June 19th - [IGDATC](https://igdatc.org/) - Twin Cities Playtest<br />6:30pm, [Noble Robot](https://noblerobot.com/) - Video games and board games
-
-- Wed, June 19th - Sun, June 23rd - [Origins Game Fair](https://www.originsgamefair.com/)<br />Columbus, Ohio
-
-- Sun, June 23rd - [Design Day](days) - Playtesting<br />2pm-6pm, [The Source](https://sourcecomicsandgames.com/)
-
 ### July 2024
 
+- Wed, July 3rd - [IGDATC](https://igdatc.org/) - Devs Play Games<br />6:30pm, [Nerdery](https://nerdery.com/) - board games ( video games, story games, more!)
+
 - Fri, July 12th - [Design Day](days) - Game Day!<br />3pm-7pm or later, [Gamezenter](https://gamezenter.com/)
+
+- Wed, July 17th - [IGDATC](https://igdatc.org/) - Twin Cities Playtest<br />6:30pm, [Noble Robot](https://noblerobot.com/) - An evening of in-development games!
 
 - Sat, July 20th - [Design Day](days) - Playtesting<br />2pm-6pm, [The Source](https://sourcecomicsandgames.com/)
 
@@ -49,4 +45,4 @@ This calendar is an exhaustive list of events of interest to MN game designers. 
 
     [Events that previously appeared on this calendar](events).
 
-<br /><br /><small>Last updated 2024-06-06. If you'd like your events included here, please [get in touch](about).</small>
+<br /><br /><small>Last updated 2024-06-24. If you'd like your events included here, please [get in touch](about).</small>

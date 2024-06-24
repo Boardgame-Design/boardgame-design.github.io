@@ -10,6 +10,12 @@ Below is a list of events that previously appeared on our calendar.
 
 ### June 2024
 
+- Sun, June 23rd - [Design Day](days) - Playtesting<br />2pm-6pm, [The Source](https://sourcecomicsandgames.com/)
+
+- Wed, June 19th - Sun, June 23rd - [Origins Game Fair](https://www.originsgamefair.com/)<br />Columbus, Ohio
+
+- Wed, June 19th - [IGDATC](https://igdatc.org/) - Twin Cities Playtest<br />6:30pm, [Noble Robot](https://noblerobot.com/) - Video games and board games
+
 - Sat, June 15th - [Design Day](days) - Playtesting<br />2pm-6pm, [The Source](https://sourcecomicsandgames.com/)
 
 - Fri, June 7th - [Design Day](days) - Game Day!<br />3pm-7pm or later, [Gamezenter](https://gamezenter.com/)
