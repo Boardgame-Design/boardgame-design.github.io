@@ -12,9 +12,7 @@ This calendar is an exhaustive list of events of interest to MN game designers. 
 
 ### July 2024
 
-- Wed, July 3rd - [IGDATC](https://igdatc.org/) - Devs Play Games<br />6:30pm, [Nerdery](https://nerdery.com/) - board games ( video games, story games, more!)
-
-- Fri, July 12th - [Design Day](days) - Game Day!<br />3pm-7pm or later, [Gamezenter](https://gamezenter.com/)
+- Fri, July 12th - [Design Day](days) - Game Day!<br />3:30pm-10:30pm [Gamezenter](https://gamezenter.com/)
 
 - Wed, July 17th - [IGDATC](https://igdatc.org/) - Twin Cities Playtest<br />6:30pm, [Noble Robot](https://noblerobot.com/) - An evening of in-development games!
 
@@ -28,7 +26,7 @@ This calendar is an exhaustive list of events of interest to MN game designers. 
 - Fri, Aug 2nd - Game Day!! (Gamezenter)
 - Sat, Aug 17th - Design Day
 - Fri - Sun, Aug 23-25 - [2D CON!](https://www.2dcon.net/)
-- Sun, Aug 25th - GAME JAME at 2D Con!!
+- Sun, Aug 25th - GAME JAM at 2D Con!
 
 ### September 2024
 
@@ -45,4 +43,4 @@ This calendar is an exhaustive list of events of interest to MN game designers. 
 
     [Events that previously appeared on this calendar](events).
 
-<br /><br /><small>Last updated 2024-06-24. If you'd like your events included here, please [get in touch](about).</small>
+<br /><br /><small>Last updated 2024-07-10. If you'd like your events included here, please [get in touch](about).</small>

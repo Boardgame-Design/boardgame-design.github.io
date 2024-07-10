@@ -8,6 +8,11 @@ Please see [the homepage](/) for a calendar of upcoming events.
 Below is a list of events that previously appeared on our calendar.
 
 
+### July 2024
+
+- Wed, July 3rd - [IGDATC](https://igdatc.org/) - Devs Play Games<br />6:30pm, [Nerdery](https://nerdery.com/) - board games ( video games, story games, more!)
+
+
 ### June 2024
 
 - Sun, June 23rd - [Design Day](days) - Playtesting<br />2pm-6pm, [The Source](https://sourcecomicsandgames.com/)
