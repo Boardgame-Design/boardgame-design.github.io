@@ -10,6 +10,12 @@ Below is a list of events that previously appeared on our calendar.
 
 ### July 2024
 
+- Sat, July 20th - [Design Day](days) - Playtesting<br />2pm-6pm, [The Source](https://sourcecomicsandgames.com/)
+
+- Wed, July 17th - [IGDATC](https://igdatc.org/) - Twin Cities Playtest<br />6:30pm, [Noble Robot](https://noblerobot.com/) - An evening of in-development games!
+
+- Fri, July 12th - [Design Day](days) - Game Day!<br />3:30pm-10:30pm [Gamezenter](https://gamezenter.com/)
+
 - Wed, July 3rd - [IGDATC](https://igdatc.org/) - Devs Play Games<br />6:30pm, [Nerdery](https://nerdery.com/) - board games ( video games, story games, more!)
 
 

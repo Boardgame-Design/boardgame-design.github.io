@@ -6,7 +6,7 @@
 
 - Fri, July 12th - Game Day!! 3:30pm-10:30pm (Gamezenter)
 - Sat, July 20th - Design Day
-- Sun, July 28th - Design Day
+- ~~Sun, July 28th - Design Day~~ CANCELED
 
 ### August 2024
 

@@ -12,18 +12,13 @@ This calendar is an exhaustive list of events of interest to MN game designers. 
 
 ### July 2024
 
-- Fri, July 12th - [Design Day](days) - Game Day!<br />3:30pm-10:30pm [Gamezenter](https://gamezenter.com/)
-
-- Wed, July 17th - [IGDATC](https://igdatc.org/) - Twin Cities Playtest<br />6:30pm, [Noble Robot](https://noblerobot.com/) - An evening of in-development games!
-
-- Sat, July 20th - [Design Day](days) - Playtesting<br />2pm-6pm, [The Source](https://sourcecomicsandgames.com/)
-
-- Sat, July 28th - [Design Day](days) - Playtesting<br />2pm-6pm, [The Source](https://sourcecomicsandgames.com/)
+- CANCELED ~~Sat, July 28th - [Design Day](days) - Playtesting<br />2pm-6pm, [The Source](https://sourcecomicsandgames.com/)~~
 
 ### August 2024
 
 - Thu - Sun, Aug 1-4 - [GenCon](https://www.gencon.com), in Indianapolis, Indiana
 - Fri, Aug 2nd - Game Day!! (Gamezenter)
+- Fri - Sun, Aug 16-18 - [Moguls Con](https://gamingmoguls.com/mogulscon/), Hopkins, MN
 - Sat, Aug 17th - Design Day
 - Fri - Sun, Aug 23-25 - [2D CON!](https://www.2dcon.net/)
 - Sun, Aug 25th - GAME JAM at 2D Con!
