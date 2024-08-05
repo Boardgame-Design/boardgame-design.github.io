@@ -8,7 +8,16 @@ Please see [the homepage](/) for a calendar of upcoming events.
 Below is a list of events that previously appeared on our calendar.
 
 
+### August 2024
+
+- Thu - Sun, Aug 1-4 - [GenCon](https://www.gencon.com), in Indianapolis, Indiana
+
+- Fri, Aug 2nd - Game Day!! (Gamezenter)
+
+
 ### July 2024
+
+- CANCELED ~~Sat, July 28th - [Design Day](days) - Playtesting<br />2pm-6pm, [The Source](https://sourcecomicsandgames.com/)~~
 
 - Sat, July 20th - [Design Day](days) - Playtesting<br />2pm-6pm, [The Source](https://sourcecomicsandgames.com/)
 
