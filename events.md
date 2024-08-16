@@ -10,6 +10,9 @@ Below is a list of events that previously appeared on our calendar.
 
 ### August 2024
 
+
+- Wed, August 7th - [IGDATC](https://igdatc.org/) - Devs Play Games<br />6:30pm, [Nerdery](https://nerdery.com/) - board games ( video games, story games, more!)
+
 - Thu - Sun, Aug 1-4 - [GenCon](https://www.gencon.com), in Indianapolis, Indiana
 
 - Fri, Aug 2nd - Game Day!! (Gamezenter)

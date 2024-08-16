@@ -12,9 +12,6 @@ This calendar is an exhaustive list of events of interest to MN game designers. 
 
 ### August 2024
 
-
-- Wed, August 7th - [IGDATC](https://igdatc.org/) - Devs Play Games<br />6:30pm, [Nerdery](https://nerdery.com/) - board games ( video games, story games, more!)
-
 - Fri - Sun, Aug 16-18 - [Moguls Con](https://gamingmoguls.com/mogulscon/), Hopkins, MN
 
 - Sat, August 17th - [Design Day](days) - Playtesting<br />2pm-6pm, [The Source](https://sourcecomicsandgames.com/)
@@ -28,6 +25,7 @@ This calendar is an exhaustive list of events of interest to MN game designers. 
 
 ### September 2024
 
+- Thurs, Sep 5th - [Break My Game](https://www.eventbrite.com/e/break-my-game-playtesting-twin-cities-mn-centennial-library-registration-975381441147) (Centennial Library)
 - Fri, Sep 6th - GAME DAY (and Trevor's birthday!) (Gamezenter)
 - Sat, Sep 21st - [IRON DESIGNER CHALLENGE](split_perspective_studios#iron-designer-challenge) (2p-6p)
 - Sun, Sep 22nd - IRON DESIGNER CHALLENGE (2p-6p)
@@ -35,10 +33,16 @@ This calendar is an exhaustive list of events of interest to MN game designers. 
 ### October 2024
 
 - Thu-Sun, Oct 3-6 - [Essen Spiel](https://www.spiel-essen.de/en/), in Essen, Germany
+- Wed, Oct 9th - Break My Game (Centennial Library)
 - Fri, Oct 11th - Game Day!! (Gamezenter)
 - Sat, Oct 19th- Design Day
 - Sun, Oct 27th - Design Day
 
+### November 2024
+
+- Wed-Sun, Nov 13-17 - [BGG.con](https://tabletop.events/conventions/bgg.con-2024) (Dallas, TX)
+
+
     [Events that previously appeared on this calendar](events).
 
-<br /><br /><small>Last updated 2024-08-05. If you'd like your events included here, please [get in touch](about).</small>
+<br /><br /><small>Last updated 2024-08-16. If you'd like your events included here, please [get in touch](about).</small>
