@@ -10,39 +10,41 @@ The twin cities area is home to many board game designers and publishers. This s
 This calendar is an exhaustive list of events of interest to MN game designers. You can also see a separate list of just the [events hosted by Split Perspective Studios](split_perspective_studios).
 
 
-### August 2024
-
-- Fri - Sun, Aug 16-18 - [Moguls Con](https://gamingmoguls.com/mogulscon/), Hopkins, MN
-
-- Sat, August 17th - [Design Day](days) - Playtesting<br />2pm-6pm, [The Source](https://sourcecomicsandgames.com/)
-
-- Wed, August 21st - [IGDATC](https://igdatc.org/) - Twin Cities Playtest<br />6:30pm, [Noble Robot](https://noblerobot.com/) - An evening of in-development games!
-
-- Fri - Sun, Aug 23-25 - [2D CON!](https://www.2dcon.net/)
-
-- Sun, Aug 25th - GAME JAM at 2D Con!
-
-
 ### September 2024
 
-- Thurs, Sep 5th - [Break My Game](https://www.eventbrite.com/e/break-my-game-playtesting-twin-cities-mn-centennial-library-registration-975381441147) (Centennial Library)
-- Fri, Sep 6th - GAME DAY (and Trevor's birthday!) (Gamezenter)
-- Sat, Sep 21st - [IRON DESIGNER CHALLENGE](split_perspective_studios#iron-designer-challenge) (2p-6p)
-- Sun, Sep 22nd - IRON DESIGNER CHALLENGE (2p-6p)
+- Wed, September 4th - [IGDATC](https://igdatc.org/) - Devs Play Games<br />6:30pm, [Nerdery](https://nerdery.com/)
+
+- Thurs, Sep 5th - [Break My Game](https://www.eventbrite.com/e/break-my-game-playtesting-twin-cities-mn-centennial-library-registration-975381441147)<br />5:30-8:30pm, (Centennial Library)
+
+- Fri, Sep 6th - GAME DAY (and Trevor's birthday!)<br />3:00pm, (GameZenter)
+
+- Sat, Sep 21st - [IRON DESIGNER CHALLENGE](split_perspective_studios#iron-designer-challenge)<br />2:00pm-6:00pm, [The Soruce](https://sourcecomicsandgames.com/)
+
+- Sat, Sep 22nd - [IRON DESIGNER CHALLENGE](split_perspective_studios#iron-designer-challenge) - Day 2<br />2:00pm-6:00pm, [The Soruce](https://sourcecomicsandgames.com/)
+
 
 ### October 2024
 
 - Thu-Sun, Oct 3-6 - [Essen Spiel](https://www.spiel-essen.de/en/), in Essen, Germany
 - Wed, Oct 9th - Break My Game (Centennial Library)
-- Fri, Oct 11th - Game Day!! (Gamezenter)
+- Fri, Oct 11th - Game Day!! (GameZenter)
 - Sat, Oct 19th- Design Day
 - Sun, Oct 27th - Design Day
 
 ### November 2024
 
+- Fri, November 8th - GAME DAY, 3:00pm, (GameZenter)
 - Wed-Sun, Nov 13-17 - [BGG.con](https://tabletop.events/conventions/bgg.con-2024) (Dallas, TX)
+- Sat, November 16th- Design Day
+- Sun, November 24th - Design Day
+
+### December 2024
+
+- Fri, December 13th - GAME DAY, 3:00pm, (GameZenter)
+- Sat, December 21st- Design Day
+- Sun, December 22nd - Design Day
 
 
     [Events that previously appeared on this calendar](events).
 
-<br /><br /><small>Last updated 2024-08-16. If you'd like your events included here, please [get in touch](about).</small>
+<br /><br /><small>Last updated 2024-09-02. If you'd like your events included here, please [get in touch](about).</small>
