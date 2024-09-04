@@ -2,18 +2,6 @@
 
 ## Events
 
-### July 2024
-
-- Fri, July 12th - Game Day!! 3:30pm-10:30pm (Gamezenter)
-- Sat, July 20th - Design Day
-- ~~Sun, July 28th - Design Day~~ CANCELED
-
-### August 2024
-
-- Fri, Aug 2nd - Game Day!! 3:30pm-10:30pm (Gamezenter)
-- Sat, Aug 17th - Design Day
-- Sun, Aug 25th - GAME JAM at 2D Con!
-
 ### September 2024
 
 - Fri, Sep 6th - GAME DAY - AND Trevor's BIRTHDAY 3:30pm-10:30pm (Gamezenter)
@@ -26,7 +14,19 @@
 - Sat, Oct 19th- Design Day
 - Sun, Oct 27th - Design Day
 
-<br/><small>(Last updated 2024-07-10.)</small><br/>
+### November 2024
+
+- Fri, Nov 8th - Game Day!! 3:00pm-10:00pm(Gamezenter)
+- Sat, Nov 16th- Design Day
+- Sun, Nov 24th - Design Day
+
+### December 2024
+
+- Fri, Dec 13th - Game Day!! 3:00pm-10:00pm(Gamezenter)
+- Sat, Dec 21st- Design Day
+- Sun, Dec 22nd - Design Day
+
+<br/><small>(Last updated 2024-09-04.)</small><br/>
 
 
 ## Event descriptions

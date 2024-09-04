@@ -12,15 +12,15 @@ This calendar is an exhaustive list of events of interest to MN game designers. 
 
 ### September 2024
 
-- Wed, September 4th - [IGDATC](https://igdatc.org/) - Devs Play Games<br />6:30pm, [Nerdery](https://nerdery.com/)
+- Wed, September 4th - [IGDATC](https://igdatc.org/) - Devs Play Games<br />6:30pm, ([Nerdery](https://nerdery.com/))
 
-- Thurs, Sep 5th - [Break My Game](https://www.eventbrite.com/e/break-my-game-playtesting-twin-cities-mn-centennial-library-registration-975381441147)<br />5:30-8:30pm, (Centennial Library)
+- Thurs, September 5th - [Break My Game](https://www.eventbrite.com/e/break-my-game-playtesting-twin-cities-mn-centennial-library-registration-975381441147)<br />5:30-8:30pm, (Centennial Library)
 
-- Fri, Sep 6th - GAME DAY (and Trevor's birthday!)<br />3:00pm, (GameZenter)
+- Fri, September 6th - GAME DAY (and Trevor's birthday!)<br />3:00pm, (GameZenter)
 
-- Sat, Sep 21st - [IRON DESIGNER CHALLENGE](split_perspective_studios#iron-designer-challenge)<br />2:00pm-6:00pm, [The Soruce](https://sourcecomicsandgames.com/)
+- Wed, September 18th - [IGDATC](https://igdatc.org/) - Twin Cities Playtest<br />6:30pm, ([Noble Robot](https://noblerobot.com/)) - An evening of in-development games!
 
-- Sat, Sep 22nd - [IRON DESIGNER CHALLENGE](split_perspective_studios#iron-designer-challenge) - Day 2<br />2:00pm-6:00pm, [The Soruce](https://sourcecomicsandgames.com/)
+- Sat - Sun, September 21st & 22nd - [IRON DESIGNER CHALLENGE](split_perspective_studios#iron-designer-challenge)<br />2:00pm-6:00pm, ([The Source](https://sourcecomicsandgames.com/))
 
 
 ### October 2024
@@ -47,4 +47,4 @@ This calendar is an exhaustive list of events of interest to MN game designers. 
 
     [Events that previously appeared on this calendar](events).
 
-<br /><br /><small>Last updated 2024-09-02. If you'd like your events included here, please [get in touch](about).</small>
+<br /><br /><small>Last updated 2024-09-04. If you'd like your events included here, please [get in touch](about).</small>
