@@ -8,6 +8,15 @@ Please see [the homepage](/) for a calendar of upcoming events.
 Below is a list of events that previously appeared on our calendar.
 
 
+### September 2024
+
+- Sat - Sun, September 21st & 22nd - [IRON DESIGNER CHALLENGE](split_perspective_studios#iron-designer-challenge)<br />2:00pm-6:00pm, ([The Source](https://sourcecomicsandgames.com/))
+- Wed, September 18th - [IGDATC](https://igdatc.org/) - Twin Cities Playtest<br />6:30pm, ([Noble Robot](https://noblerobot.com/)) - An evening of in-development games!
+- Fri, September 6th - GAME DAY (and Trevor's birthday!)<br />3:00pm, (GameZenter)
+- Thurs, September 5th - [Break My Game](https://www.eventbrite.com/e/break-my-game-playtesting-twin-cities-mn-centennial-library-registration-975381441147)<br />5:30-8:30pm, (Centennial Library)
+- Wed, September 4th - [IGDATC](https://igdatc.org/) - Devs Play Games<br />6:30pm, ([Nerdery](https://nerdery.com/))
+
+
 ### August 2024
 
 
