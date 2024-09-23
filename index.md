@@ -47,7 +47,13 @@ This calendar is an exhaustive list of events of interest to MN game designers. 
 - Sat, December 21st- Design Day
 - Sun, December 22nd - Design Day
 
+### 2025
 
-    [Events that previously appeared on this calendar](events).
+- [Protospiel MN](https://protospiel-mn.org), Fri-Sun, Jan 24th-26th, 2025
+- [Protospiel Twin Cities](https://tabletop.events/conventions/protospiel-twin-cities-2025), Fri-Sun, May 30th-June 1st, 2025
+
+
+
+<br /><br />[See also: events that previously appeared on this calendar](events).
 
 <br /><br /><small>Last updated 2024-09-23. If you'd like your events included here, please [get in touch](about).</small>

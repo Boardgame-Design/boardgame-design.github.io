@@ -5,6 +5,7 @@
 
 ### Upcoming
 
+- [Protospiel MN](https://protospiel-mn.org), Fri-Sun, Jan 24th-26th, 2025
 - [Protospiel Twin Cities](https://tabletop.events/conventions/protospiel-twin-cities-2025), Fri-Sun, May 30th-June 1st, 2025
 
 
