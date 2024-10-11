@@ -2,16 +2,10 @@
 
 ## Events
 
-### September 2024
-
-- Fri, Sep 6th - GAME DAY - AND Trevor's BIRTHDAY 3:30pm-10:30pm (Gamezenter)
-- Sat, Sep 21st - IRON DESIGNER CHALLENGE (2p-6p)
-- Sun, Sep 22nd - IRON DESIGNER CHALLENGE (2p-6p)
-
 ### October 2024
 
 - Fri, Oct 11th - Game Day!! 3:30pm-10:30pm (Gamezenter)
-- Sat, Oct 19th- Design Day
+- Sun, Oct 20th- Design Day
 - Sun, Oct 27th - Design Day
 
 ### November 2024
@@ -23,10 +17,10 @@
 ### December 2024
 
 - Fri, Dec 13th - Game Day!! 3:00pm-10:00pm(Gamezenter)
-- Sat, Dec 21st- Design Day
+- ~~Sat, Dec 21st- Design Day~~ (canceled)
 - Sun, Dec 22nd - Design Day
 
-<br/><small>(Last updated 2024-09-04.)</small><br/>
+<br/><small>(Last updated 2024-10-11.)</small><br/>
 
 
 ## Event descriptions

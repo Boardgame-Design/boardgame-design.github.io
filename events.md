@@ -8,6 +8,13 @@ Please see [the homepage](/) for a calendar of upcoming events.
 Below is a list of events that previously appeared on our calendar.
 
 
+### October 2024
+
+- Wed, October 9th - [Break My Game](https://www.eventbrite.com/e/break-my-game-playtesting-twin-cities-mn-centennial-library-registration-975374420147)<br />5:30-8:30pm, (Centennial Library)
+- Thu-Sun, October 3-6 - [Essen Spiel](https://www.spiel-essen.de/en/)<br />Essen, Germany
+- Wed, October 2nd - [IGDATC](https://igdatc.org/) - Devs Play Games<br />6:30pm, ([Nerdery](https://nerdery.com/))
+
+
 ### September 2024
 
 - Sat - Sun, September 21st & 22nd - [IRON DESIGNER CHALLENGE](split_perspective_studios#iron-designer-challenge)<br />2:00pm-6:00pm, ([The Source](https://sourcecomicsandgames.com/))

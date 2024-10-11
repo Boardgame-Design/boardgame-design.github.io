@@ -15,17 +15,11 @@ This calendar is an exhaustive list of events of interest to MN game designers. 
 
 ### October 2024
 
-- Wed, October 2nd - [IGDATC](https://igdatc.org/) - Devs Play Games<br />6:30pm, ([Nerdery](https://nerdery.com/))
-
-- Thu-Sun, October 3-6 - [Essen Spiel](https://www.spiel-essen.de/en/)<br />Essen, Germany
-
-- Wed, October 9th - [Break My Game](https://www.eventbrite.com/e/break-my-game-playtesting-twin-cities-mn-centennial-library-registration-975374420147)<br />5:30-8:30pm, (Centennial Library)
-
 - Fri, October 11th - Game Day!<br />3:00pm, (GameZenter)
 
 - Wed, October 16th - [IGDATC](https://igdatc.org/) - Twin Cities Playtest,<br />6:30pm, ([Noble Robot](https://noblerobot.com/))
 
-- Sat, October 19th- Design Day
+- Sun, October 20th- Design Day (changed from Sat, Oct 19)
 
 - Sun, October 27th - Design Day
 
@@ -44,7 +38,7 @@ This calendar is an exhaustive list of events of interest to MN game designers. 
 - Wed, December 4th - [IGDATC](https://igdatc.org/) - Devs Play Games, (Nerdery)
 - Fri, December 13th - GAME DAY, 3:00pm, (GameZenter)
 - Wed, December 18th - [IGDATC](https://igdatc.org/) - Twin Cities Playtest, 6:30pm, ([Noble Robot](https://noblerobot.com/))
-- Sat, December 21st- Design Day
+- ~~Sat, December 21st- Design Day~~ (Canceled)
 - Sun, December 22nd - Design Day
 
 ### 2025
@@ -56,4 +50,4 @@ This calendar is an exhaustive list of events of interest to MN game designers. 
 
 <br /><br />[See also: events that previously appeared on this calendar](events).
 
-<br /><br /><small>Last updated 2024-09-23. If you'd like your events included here, please [get in touch](about).</small>
+<br /><br /><small>Last updated 2024-10-11. If you'd like your events included here, please [get in touch](about).</small>
