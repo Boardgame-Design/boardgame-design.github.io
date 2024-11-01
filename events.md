@@ -10,6 +10,10 @@ Below is a list of events that previously appeared on our calendar.
 
 ### October 2024
 
+- Sun, October 27th - Design Day
+- Sun, October 20th- Design Day (changed from Sat, Oct 19)
+- Wed, October 16th - [IGDATC](https://igdatc.org/) - Twin Cities Playtest,<br />6:30pm, ([Noble Robot](https://noblerobot.com/))
+- Fri, October 11th - Game Day!<br />3:00pm, (GameZenter)
 - Wed, October 9th - [Break My Game](https://www.eventbrite.com/e/break-my-game-playtesting-twin-cities-mn-centennial-library-registration-975374420147)<br />5:30-8:30pm, (Centennial Library)
 - Thu-Sun, October 3-6 - [Essen Spiel](https://www.spiel-essen.de/en/)<br />Essen, Germany
 - Wed, October 2nd - [IGDATC](https://igdatc.org/) - Devs Play Games<br />6:30pm, ([Nerdery](https://nerdery.com/))

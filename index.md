@@ -13,16 +13,6 @@ At the moment there is not much here otherwise. If you are looking for informati
 This calendar is an exhaustive list of events of interest to MN game designers. You can also see a separate list of just the [events hosted by Split Perspective Studios](split_perspective_studios).
 
 
-### October 2024
-
-- Fri, October 11th - Game Day!<br />3:00pm, (GameZenter)
-
-- Wed, October 16th - [IGDATC](https://igdatc.org/) - Twin Cities Playtest,<br />6:30pm, ([Noble Robot](https://noblerobot.com/))
-
-- Sun, October 20th- Design Day (changed from Sat, Oct 19)
-
-- Sun, October 27th - Design Day
-
 
 ### November 2024
 
@@ -48,6 +38,6 @@ This calendar is an exhaustive list of events of interest to MN game designers. 
 
 
 
-<br /><br />[See also: events that previously appeared on this calendar](events).
+<br /><br />See also: [events that previously appeared on this calendar](events).
 
-<br /><br /><small>Last updated 2024-10-11. If you'd like your events included here, please [get in touch](about).</small>
+<br /><br /><small>Last updated 2024-10-31. If you'd like your events included here, please [get in touch](about).</small>
