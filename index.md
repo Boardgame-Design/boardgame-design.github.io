@@ -37,7 +37,7 @@ This calendar is an exhaustive list of events of interest to MN game designers. 
 
 - Fri, January 3 - Game Day, 5pm-10pm, (GameZenter)
 - Sat, January 11 - Design Day, 2pm-6pm, (GameZenter - not the Source!)
-- Sun, January 19 - Design Day, 2pm-6pm, (The Source)
+- Sat, January 18 - Design Day, 2pm-6pm, (The Source)
 - Fri-Sun, January 24-26, [Protospiel MN](https://protospiel-mn.org)
 
 ### Other 2025
@@ -48,4 +48,4 @@ This calendar is an exhaustive list of events of interest to MN game designers. 
 
 <br /><br />See also: [events that previously appeared on this calendar](events).
 
-<br /><br /><small>Last updated 2024-11-06. If you'd like your events included here, please [get in touch](about).</small>
+<br /><br /><small>Last updated 2024-11-07. If you'd like your events included here, please [get in touch](about).</small>
