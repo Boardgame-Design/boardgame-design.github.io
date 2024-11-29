@@ -8,6 +8,15 @@ Please see [the homepage](/) for a calendar of upcoming events.
 Below is a list of events that previously appeared on our calendar.
 
 
+### November 2024
+
+- Sun, November 24th - Design Day
+- Wed, November 20th - [IGDATC](https://igdatc.org/) - Twin Cities Playtest, 6:30pm, ([Noble Robot](https://noblerobot.com/))
+- Sat, November 16th- Design Day ([The Source](https://sourcecomicsandgames.com/))
+- Wed-Sun, Nov 13-17 - [BGG.con](https://tabletop.events/conventions/bgg.con-2024) (Dallas, TX)
+- Thu, November 12th - [Break My Game](https://www.eventbrite.com/e/break-my-game-playtesting-twin-cities-mn-centennial-library-registration-975374420147?aff=ebdssbdestsearch), 5:30-8:30pm, (Centennial Library)
+- Fri, November 8th - GAME DAY, 3pm-10pm, (GameZenter)
+
 ### October 2024
 
 - Sun, October 27th - Design Day
