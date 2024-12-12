@@ -20,8 +20,8 @@ This calendar is an exhaustive list of events of interest to MN game designers. 
 - Fri, December 6th - GAME DAY, 3:00pm, (GameZenter)
 - Fri-Sun, December 6th-8th - [PAX Unplugged](https://unplugged.paxsite.com/), (Philadelphia, PA)
 - Wed, December 11th - [IGDATC](https://igdatc.org/) - Holiday Party, 6-9:30pm, (Gamezenter)
-- Sat, December 14th - Design Day (The Source)
-- Sun, December 22nd - Design Day
+- Sat, December 14th - Design Day (GameZenter)
+- Sun, December 22nd - Design Day (The Source)
 
 ### January 2025
 
@@ -39,4 +39,4 @@ This calendar is an exhaustive list of events of interest to MN game designers. 
 
 <br /><br />See also: [events that previously appeared on this calendar](events).
 
-<br /><br /><small>Last updated 2024-11-28. If you'd like your events included here, please [get in touch](about).</small>
+<br /><br /><small>Last updated 2024-12-12. If you'd like your events included here, please [get in touch](about).</small>
