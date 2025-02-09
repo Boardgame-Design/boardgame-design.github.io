@@ -1,12 +1,31 @@
 # Twin Cities Boardgame Design Events
 
-Please see [the homepage](/) for a calendar of upcoming events.
+**_Note that this page is no longer maintained as a list of upcoming events._**
+
+Please see [the homepage](/) for a few ways to find upcoming boardgame design-related events.
 
 
 ## History
 
-Below is a list of events that previously appeared on our calendar.
+Below is a list of events that previously appeared on our pages.
 
+
+### January 2025
+
+- Fri-Sun, January 24-26, [Protospiel MN](https://protospiel-mn.org)
+- Sat, January 18 - Design Day, 2pm-6pm, (The Source)
+- Sat, January 11 - Design Day, 2pm-6pm, (GameZenter - not the Source!)
+- Fri, January 3 - Game Day, 5pm-10pm, (GameZenter)
+- Thu, January 2nd - [Break My Game](https://www.eventbrite.com/e/break-my-game-playtesting-twin-cities-mn-2dhq-registration-1095599610929), 6-9pm, ([2DHQ](https://2dcon.gg/event/break-my-game-playtesting-event/2025-01-02/))
+
+### December 2024
+
+- Sun, December 22nd - Design Day (The Source)
+- Sat, December 14th - Design Day (GameZenter)
+- Wed, December 11th - [IGDATC](https://igdatc.org/) - Holiday Party, 6-9:30pm, (Gamezenter)
+- Fri-Sun, December 6th-8th - [PAX Unplugged](https://unplugged.paxsite.com/), (Philadelphia, PA)
+- Fri, December 6th - GAME DAY, 3:00pm, (GameZenter)
+- Thu, December 5th - [Break My Game](https://www.eventbrite.com/e/break-my-game-playtesting-twin-cities-mn-2dhq-registration-1095599610929), 6-9pm, ([2DHQ](https://2dcon.gg/event/break-my-game-playtesting-event/2024-12-05/))
 
 ### November 2024
 

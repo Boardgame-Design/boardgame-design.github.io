@@ -1,4 +1,4 @@
-# Community
+# Online Community
 
 When not meeting in person at a [local conference](conferences) or [design day](days), you can find local board game designers hanging out in several online venues.
 
@@ -29,7 +29,7 @@ A facebook group called [Gray Duck Lodge](https://www.facebook.com/groups/GreyDu
 
 ## Any we missed?
 
-If you would like your online community listed here (and it has a significant amount of game design discussion), please [get in touch](about/#how-to-help)!
+If you would like your in-person or online community listed here (and it has a significant amount of game design discussion), please [get in touch](about/#how-to-help)!
 
 
 ##### [back home](/)
