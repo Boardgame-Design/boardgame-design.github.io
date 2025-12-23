@@ -5,20 +5,20 @@
 
 ### Upcoming
 
-- [Protospiel MN](https://protospiel-mn.org), Fri-Sun, Jan 24th-26th, 2025
-- [Protospiel Twin Cities](https://tabletop.events/conventions/protospiel-twin-cities-2025), Fri-Sun, May 30th-June 1st, 2025
+- [Protospiel MN](https://protospiel-mn.org), Fri, Jan 23 - Sun, Jan 25, 2026
+- [Protospiel Twin Cities](https://tabletop.events/conventions/protospiel-twin-cities-2026), Fri, May 29 - Sun, May 31, 2026
+- [2D CON!](https://www.2dcon.net/) - Usually has some boardgame design related content, and has been around since 2010. See also 2DCon Unplugged focused on tabletop games.
 
 
 ### Previous
 
-- [2D CON!](https://www.2dcon.net/) - Friday-Sunday, Aug 23-25, 2024
-- [Protospiel Twin Cities](https://tabletop.events/conventions/protospiel-twin-cities-2024/) was held May 31 - June 2nd, 2024
-- [Protospiel MN](https://tabletop.events/conventions/protospiel-mn-2024) was held Feb 2-4, 2024<br />Also held in [2023](https://tabletop.events/conventions/protospiel-mn-2023), [2022](https://tabletop.events/conventions/protospiel-mn-2022), [2020](https://tabletop.events/conventions/protospiel-mn-2020), [2019](https://tabletop.events/conventions/protospiel-mn-2019), [2018](https://tabletop.events/conventions/protospiel-mn-2018), [2017](https://tabletop.events/conventions/protospiel-mn-2017), and [2016](https://tabletop.events/conventions/protospiel-mn-2016).
+- Protospiel Twin Cities - Held in [2025](https://tabletop.events/conventions/protospiel-twin-cities-2025), [2024](https://tabletop.events/conventions/protospiel-twin-cities-2024/).
+- Protospiel MN - Held in [2025](https://tabletop.events/conventions/protospiel-mn-2025), [2024](https://tabletop.events/conventions/protospiel-mn-2024), [2023](https://tabletop.events/conventions/protospiel-mn-2023), [2022](https://tabletop.events/conventions/protospiel-mn-2022), [2020](https://tabletop.events/conventions/protospiel-mn-2020), [2019](https://tabletop.events/conventions/protospiel-mn-2019), [2018](https://tabletop.events/conventions/protospiel-mn-2018), [2017](https://tabletop.events/conventions/protospiel-mn-2017), and [2016](https://tabletop.events/conventions/protospiel-mn-2016).
 
 
 ## Other local industry conferences
 
-These conferences don't necessarily have game-design specific events, but are focused on gaming.
+These conferences don't necessarily have game-design specific events, but _are_ focused on gaming.
 
 - [Con of the North](https://www.conofthenorth.org/) - Feb. 14-16 2025
 - [DaveCON](https://www.davecon.net/) - April 25-27, 2025
