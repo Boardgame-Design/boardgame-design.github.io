@@ -1,5 +1,7 @@
 The twin cities area in Minnesota (MN) is home to many board game designers and publishers. This site's purpose is to be a resource for that local community.
 
+<iframe src="https://calendar.google.com/calendar/embed?height=400&wkst=1&ctz=America%2FChicago&showPrint=0&src=ODNmMTBjODNhYTQxNDlhYWZiNmUzODU3YmU1NWRjMjVhZmJmMWQ1ZWE5ZTk5MmZiYWRiMjM0Y2ZhODQwNDJjOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23616161" style="border-width:0" width="500" height="400" frameborder="0" scrolling="no"></iframe>
+
 There are generally three organizations that host boardgame design related events:
 
 1. **[Split Perspective Studios](split_perspective_studios)** hosts "Design Days" roughly twice a month. The best way to hear about their events is via email, but you can also [join the Split Perspective Studios Discord](https://discord.gg/QS4hm3hfBs).
