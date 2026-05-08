@@ -2,29 +2,6 @@
 
 ## Events
 
-### October 2024
-
-- Fri, Oct 11th - Game Day!! 3:30pm-10:30pm (Gamezenter)
-- Sun, Oct 20th- Design Day
-- Sun, Oct 27th - Design Day
-
-### November 2024
-
-- Fri, Nov 8th - Game Day!! 3:00pm-10:00pm(Gamezenter)
-- Sat, Nov 16th- Design Day
-- Sun, Nov 24th - Design Day
-
-### December 2024
-
-- Fri, Dec 13th - Game Day!! 3:00pm-10:00pm(Gamezenter)
-- ~~Sat, Dec 21st- Design Day~~ (canceled)
-- Sun, Dec 22nd - Design Day
-
-<br/><small>(Last updated 2024-10-11.)</small><br/>
-
-
-## Event descriptions
-
 ### Design Day
 
 Please see the page for [Design Days](days).

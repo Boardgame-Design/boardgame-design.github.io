@@ -9,7 +9,7 @@ All Design Day events are organized by Trevor Muller-Hegel of [Split Perspective
 
 Usually
 
-- the second-to-last Saturday, and
+- the second Saturday, and
 - the last Sunday
 
 ...of the month, from 2pm to 6pm.
